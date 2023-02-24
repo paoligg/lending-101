@@ -60,8 +60,7 @@
     },
     {
       "stateMutability": "payable",
-      "type": "fallback",
-      "payable": true
+      "type": "fallback"
     },
     {
       "inputs": [],
@@ -74,8 +73,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -88,8 +86,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -102,8 +99,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -127,8 +123,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -147,8 +142,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [
@@ -167,8 +161,7 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "inputs": [],
@@ -181,13 +174,11 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function",
-      "constant": true
+      "type": "function"
     },
     {
       "stateMutability": "payable",
-      "type": "receive",
-      "payable": true
+      "type": "receive"
     },
     {
       "inputs": [],
@@ -272,7 +263,7 @@
   "sourceMap": "259:6190:5:-:0;;;699:294;8:9:-1;5:2;;;30:1;27;20:12;5:2;699:294:5;;;;;;;;;;;;;;;;;;;;;;;;806:7;797:6;;:16;;;;;;;;;;;;;;;;;;824:5;817:4;;:12;;;;;;;;;;;;;;;;;;840:5;833:4;;:12;;;;;;;;;;;;;;;;;;868:17;849:16;;:36;;;;;;;;;;;;;;;;;;894:94;923:6;;;;;;;;;;;940:4;;;;;;;;;;;955;;;;;;;;;;;970:16;;;;;;;;;;;894:94;;;;;;;;;;;;;;;;;;699:294;;;;259:6190;;5:166:-1;;105:6;99:13;90:22;;117:49;160:5;117:49;;;84:87;;;;;178:162;;276:6;270:13;261:22;;288:47;329:5;288:47;;;255:85;;;;;347:788;;;;;571:3;559:9;550:7;546:23;542:33;539:2;;;588:1;585;578:12;539:2;623:1;640:80;712:7;703:6;692:9;688:22;640:80;;;630:90;;602:124;757:2;775:78;845:7;836:6;825:9;821:22;775:78;;;765:88;;736:123;890:2;908:78;978:7;969:6;958:9;954:22;908:78;;;898:88;;869:123;1023:2;1041:78;1111:7;1102:6;1091:9;1087:22;1041:78;;;1031:88;;1002:123;533:602;;;;;;;;1142:113;1225:24;1243:5;1225:24;;;1220:3;1213:37;1207:48;;;1262:547;;1464:3;1453:9;1449:19;1441:27;;1479:71;1547:1;1536:9;1532:17;1523:6;1479:71;;;1561:72;1629:2;1618:9;1614:18;1605:6;1561:72;;;1644;1712:2;1701:9;1697:18;1688:6;1644:72;;;1727;1795:2;1784:9;1780:18;1771:6;1727:72;;;1435:374;;;;;;;;1816:91;;1878:24;1896:5;1878:24;;;1867:35;;1861:46;;;;1914:107;;1992:24;2010:5;1992:24;;;1981:35;;1975:46;;;;2028:105;;2104:24;2122:5;2104:24;;;2093:35;;2087:46;;;;2140:121;;2213:42;2206:5;2202:54;2191:65;;2185:76;;;;2268:149;2353:40;2387:5;2353:40;;;2346:5;2343:51;2333:2;;2408:1;2405;2398:12;2333:2;2327:90;;2424:145;2507:38;2539:5;2507:38;;;2500:5;2497:49;2487:2;;2560:1;2557;2550:12;2487:2;2481:88;;259:6190:5;;;;;;;",
   "deployedSourceMap": "259:6190:5:-:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;459:60;;8:9:-1;5:2;;;30:1;27;20:12;5:2;459:60:5;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;307:18;;8:9:-1;5:2;;;30:1;27;20:12;5:2;307:18:5;;;:::i;:::-;;;;;;;;;;;;;;;;6103:343;;8:9:-1;5:2;;;30:1;27;20:12;5:2;6103:343:5;;;;;;;;;;;;;;;;:::i;:::-;;1417:358;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1417:358:5;;;:::i;:::-;;1778:436;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1778:436:5;;;:::i;:::-;;384:71;;8:9:-1;5:2;;;30:1;27;20:12;5:2;384:71:5;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;3296:677;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3296:677:5;;;:::i;:::-;;1067:347;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1067:347:5;;;:::i;:::-;;5311:703;;8:9:-1;5:2;;;30:1;27;20:12;5:2;5311:703:5;;;:::i;:::-;;3976:678;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3976:678:5;;;:::i;:::-;;349:30;;8:9:-1;5:2;;;30:1;27;20:12;5:2;349:30:5;;;:::i;:::-;;;;;;;;;;;;;;;;328:18;;8:9:-1;5:2;;;30:1;27;20:12;5:2;328:18:5;;;:::i;:::-;;;;;;;;;;;;;;;;2217:429;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2217:429:5;;;:::i;:::-;;4657:651;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4657:651:5;;;:::i;:::-;;283:21;;8:9:-1;5:2;;;30:1;27;20:12;5:2;283:21:5;;;:::i;:::-;;;;;;;;;;;;;;;;2649:644;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2649:644:5;;;:::i;:::-;;523:45;;8:9:-1;5:2;;;30:1;27;20:12;5:2;523:45:5;;;;;;;;;;;;;;;;:::i;:::-;;;;;;;;;;;;;;;;459:60;;;;;;;;;;;;;;;;;;;;;;:::o;307:18::-;;;;;;;;;;;;;:::o;6103:343::-;6250:13;:40;6272:16;6250:40;;;;;;;;;;;;;;;;;;;;;;;;;6249:41;6241:50;;;;;;6371:16;6341:15;:27;6357:10;6341:27;;;;;;;;;;;;;;;;:46;;;;;;;;;;;;;;;;;;6434:4;6391:13;:40;6413:16;6391:40;;;;;;;;;;;;;;;;:47;;;;;;;;;;;;;;;;;;6103:343;:::o;1417:358::-;1562:1;1521:16;;;;;;;;;;;:26;;;1548:10;1521:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1521:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1521:38:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;1521:38:5;;;;;;;;;:42;1513:91;;;;;;;;;;;;;;;;;;;;;;1639:19;:31;1659:10;1639:31;;;;;;;;;;;;;;;:34;1671:1;1639:34;;;;;;;;;;;;;;;;;;;;;1634:137;;1719:4;1682:19;:31;1702:10;1682:31;;;;;;;;;;;;;;;:34;1714:1;1682:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;1728:6;;;;;;;;;;;:23;;;1752:10;1764:1;1728:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1728:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1728:38:5;;;;1634:137;1417:358::o;1778:436::-;1833:19;:31;1853:10;1833:31;;;;;;;;;;;;;;;:34;1865:1;1833:34;;;;;;;;;;;;;;;;;;;;;1825:76;;;;;;;;;;;;;;;;;;;;;;2001:1;1959:16;;;;;;;;;;;:26;;;1986:10;1959:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1959:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1959:38:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;1959:38:5;;;;;;;;;:43;1951:92;;;;;;;;;;;;;;;;;;;;;;2078:19;:31;2098:10;2078:31;;;;;;;;;;;;;;;:34;2110:1;2078:34;;;;;;;;;;;;;;;;;;;;;2073:137;;2158:4;2121:19;:31;2141:10;2121:31;;;;;;;;;;;;;;;:34;2153:1;2121:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;2167:6;;;;;;;;;;;:23;;;2191:10;2203:1;2167:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2167:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;2167:38:5;;;;2073:137;1778:436::o;384:71::-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o;3296:677::-;3398:22;3423:16;;;;;;;;;;;:26;;;3458:15;:27;3474:10;3458:27;;;;;;;;;;;;;;;;;;;;;;;;;3423:64;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3423:64:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;3423:64:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;3423:64:5;;;;;;;;;3398:89;;3528:15;:27;3544:10;3528:27;;;;;;;;;;;;;;;;;;;;;;;;;:44;;;:46;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3528:46:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;3528:46:5;;;;3601:18;3622:16;;;;;;;;;;;:26;;;3657:15;:27;3673:10;3657:27;;;;;;;;;;;;;;;;;;;;;;;;;3622:64;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3622:64:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;3622:64:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;3622:64:5;;;;;;;;;3601:85;;3753:10;3736:14;:27;3728:75;;;;;;;;;;;;;;;;;;;;;;3838:19;:31;3858:10;3838:31;;;;;;;;;;;;;;;:34;3870:1;3838:34;;;;;;;;;;;;;;;;;;;;;3833:137;;3918:4;3881:19;:31;3901:10;3881:31;;;;;;;;;;;;;;;:34;3913:1;3881:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;3927:6;;;;;;;;;;;:23;;;3951:10;3963:1;3927:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3927:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;3927:38:5;;;;3833:137;3296:677;;:::o;1067:347::-;1201:1;1172:4;;;;;;;;;;;:14;;;1187:10;1172:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1172:26:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1172:26:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;1172:26:5;;;;;;;;;:30;1164:79;;;;;;;;;;;;;;;;;;;;;;1278:19;:31;1298:10;1278:31;;;;;;;;;;;;;;;:34;1310:1;1278:34;;;;;;;;;;;;;;;;;;;;;1273:137;;1358:4;1321:19;:31;1341:10;1321:31;;;;;;;;;;;;;;;:34;1353:1;1321:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;1367:6;;;;;;;;;;;:23;;;1391:10;1403:1;1367:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1367:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;1367:38:5;;;;1273:137;1067:347::o;5311:703::-;5461:15;:27;5477:10;5461:27;;;;;;;;;;;;;;;;;;;;;;;;;:40;;;:42;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;5461:42:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;5461:42:5;;;;5530:18;5551:4;;;;;;;;;;;:14;;;5574:15;:27;5590:10;5574:27;;;;;;;;;;;;;;;;;;;;;;;;;5551:52;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;5551:52:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;5551:52:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;5551:52:5;;;;;;;;;5530:73;;5683:22;5708:17;5683:42;;5787:14;5774:10;:27;5766:78;;;;;;;;;;;;;;;;;;;;;;5879:19;:31;5899:10;5879:31;;;;;;;;;;;;;;;:34;5911:1;5879:34;;;;;;;;;;;;;;;;;;;;;5874:137;;5959:4;5922:19;:31;5942:10;5922:31;;;;;;;;;;;;;;;:34;5954:1;5922:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;5968:6;;;;;;;;;;;:23;;;5992:10;6004:1;5968:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;5968:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;5968:38:5;;;;5874:137;5311:703;;:::o;3976:678::-;4077:22;4102:16;;;;;;;;;;;:26;;;4137:15;:27;4153:10;4137:27;;;;;;;;;;;;;;;;;;;;;;;;;4102:64;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4102:64:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;4102:64:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;4102:64:5;;;;;;;;;4077:89;;4207:15;:27;4223:10;4207:27;;;;;;;;;;;;;;;;;;;;;;;;;:43;;;:45;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4207:45:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;4207:45:5;;;;4279:18;4300:16;;;;;;;;;;;:26;;;4335:15;:27;4351:10;4335:27;;;;;;;;;;;;;;;;;;;;;;;;;4300:64;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4300:64:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;4300:64:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;4300:64:5;;;;;;;;;4279:85;;4431:10;4414:14;:27;4406:78;;;;;;;;;;;;;;;;;;;;;;4519:19;:31;4539:10;4519:31;;;;;;;;;;;;;;;:34;4551:1;4519:34;;;;;;;;;;;;;;;;;;;;;4514:137;;4599:4;4562:19;:31;4582:10;4562:31;;;;;;;;;;;;;;;:34;4594:1;4562:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;4608:6;;;;;;;;;;;:23;;;4632:10;4644:1;4608:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4608:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;4608:38:5;;;;4514:137;3976:678;;:::o;349:30::-;;;;;;;;;;;;;:::o;328:18::-;;;;;;;;;;;;;:::o;2217:429::-;2274:19;:31;2294:10;2274:31;;;;;;;;;;;;;;;:34;2306:1;2274:34;;;;;;;;;;;;;;;;;;;;;2266:76;;;;;;;;;;;;;;;;;;;;;;2433:1;2403:4;;;;;;;;;;;:14;;;2418:10;2403:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2403:26:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;2403:26:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;2403:26:5;;;;;;;;;:31;2395:80;;;;;;;;;;;;;;;;;;;;;;2510:19;:31;2530:10;2510:31;;;;;;;;;;;;;;;:34;2542:1;2510:34;;;;;;;;;;;;;;;;;;;;;2505:137;;2590:4;2553:19;:31;2573:10;2553:31;;;;;;;;;;;;;;;:34;2585:1;2553:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;2599:6;;;;;;;;;;;:23;;;2623:10;2635:1;2599:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2599:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;2599:38:5;;;;2505:137;2217:429::o;4657:651::-;4749:22;4774:4;;;;;;;;;;;:14;;;4797:15;:27;4813:10;4797:27;;;;;;;;;;;;;;;;;;;;;;;;;4774:52;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4774:52:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;4774:52:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;4774:52:5;;;;;;;;;4749:77;;4867:15;:27;4883:10;4867:27;;;;;;;;;;;;;;;;;;;;;;;;;:46;;;:48;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4867:48:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;4867:48:5;;;;4942:18;4963:4;;;;;;;;;;;:14;;;4986:15;:27;5002:10;4986:27;;;;;;;;;;;;;;;;;;;;;;;;;4963:52;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4963:52:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;4963:52:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;4963:52:5;;;;;;;;;4942:73;;5082:10;5065:14;:27;5057:81;;;;;;;;;;;;;;;;;;;;;;5173:19;:31;5193:10;5173:31;;;;;;;;;;;;;;;:34;5205:1;5173:34;;;;;;;;;;;;;;;;;;;;;5168:137;;5253:4;5216:19;:31;5236:10;5216:31;;;;;;;;;;;;;;;:34;5248:1;5216:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;5262:6;;;;;;;;;;;:23;;;5286:10;5298:1;5262:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;5262:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;5262:38:5;;;;5168:137;4657:651;;:::o;283:21::-;;;;;;;;;;;;;:::o;2649:644::-;2740:22;2765:4;;;;;;;;;;;:14;;;2788:15;:27;2804:10;2788:27;;;;;;;;;;;;;;;;;;;;;;;;;2765:52;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2765:52:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;2765:52:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;2765:52:5;;;;;;;;;2740:77;;2858:15;:27;2874:10;2858:27;;;;;;;;;;;;;;;;;;;;;;;;;:45;;;:47;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2858:47:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;2858:47:5;;;;2932:18;2953:4;;;;;;;;;;;:14;;;2976:15;:27;2992:10;2976:27;;;;;;;;;;;;;;;;;;;;;;;;;2953:52;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2953:52:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;2953:52:5;;;;;;;101:4:-1;97:9;90:4;84;80:15;76:31;69:5;65:43;126:6;120:4;113:20;0:138;2953:52:5;;;;;;;;;2932:73;;3072:10;3055:14;:27;3047:76;;;;;;;;;;;;;;;;;;;;;;3158:19;:31;3178:10;3158:31;;;;;;;;;;;;;;;:34;3190:1;3158:34;;;;;;;;;;;;;;;;;;;;;3153:137;;3238:4;3201:19;:31;3221:10;3201:31;;;;;;;;;;;;;;;:34;3233:1;3201:34;;;;;;;;;;;;:41;;;;;;;;;;;;;;;;;;3247:6;;;;;;;;;;;:23;;;3271:10;3283:1;3247:38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3247:38:5;;;;8:9:-1;5:2;;;45:16;42:1;39;24:38;77:16;74:1;67:27;5:2;3247:38:5;;;;3153:137;2649:644;;:::o;523:45::-;;;;;;;;;;;;;;;;;;;;;;:::o;5:130:-1:-;;85:6;72:20;63:29;;97:33;124:5;97:33;;;57:78;;;;;142:182;;248:6;235:20;226:29;;260:59;313:5;260:59;;;220:104;;;;;331:130;;411:6;398:20;389:29;;423:33;450:5;423:33;;;383:78;;;;;468:134;;552:6;546:13;537:22;;564:33;591:5;564:33;;;531:71;;;;;609:241;;713:2;701:9;692:7;688:23;684:32;681:2;;;729:1;726;719:12;681:2;764:1;781:53;826:7;817:6;806:9;802:22;781:53;;;771:63;;743:97;675:175;;;;;857:366;;;978:2;966:9;957:7;953:23;949:32;946:2;;;994:1;991;984:12;946:2;1029:1;1046:53;1091:7;1082:6;1071:9;1067:22;1046:53;;;1036:63;;1008:97;1136:2;1154:53;1199:7;1190:6;1179:9;1175:22;1154:53;;;1144:63;;1115:98;940:283;;;;;;1230:293;;1360:2;1348:9;1339:7;1335:23;1331:32;1328:2;;;1376:1;1373;1366:12;1328:2;1411:1;1428:79;1499:7;1490:6;1479:9;1475:22;1428:79;;;1418:89;;1390:123;1322:201;;;;;1530:263;;1645:2;1633:9;1624:7;1620:23;1616:32;1613:2;;;1661:1;1658;1651:12;1613:2;1696:1;1713:64;1769:7;1760:6;1749:9;1745:22;1713:64;;;1703:74;;1675:108;1607:186;;;;;1800:142;1891:45;1930:5;1891:45;;;1886:3;1879:58;1873:69;;;1949:113;2032:24;2050:5;2032:24;;;2027:3;2020:37;2014:48;;;2069:104;2146:21;2161:5;2146:21;;;2141:3;2134:34;2128:45;;;2180:158;2279:53;2326:5;2279:53;;;2274:3;2267:66;2261:77;;;2345:154;2442:51;2487:5;2442:51;;;2437:3;2430:64;2424:75;;;2506:178;2615:63;2672:5;2615:63;;;2610:3;2603:76;2597:87;;;2691:142;2782:45;2821:5;2782:45;;;2777:3;2770:58;2764:69;;;2840:142;2931:45;2970:5;2931:45;;;2926:3;2919:58;2913:69;;;2990:375;;3150:67;3214:2;3209:3;3150:67;;;3143:74;;3250:34;3246:1;3241:3;3237:11;3230:55;3319:8;3314:2;3309:3;3305:12;3298:30;3356:2;3351:3;3347:12;3340:19;;3136:229;;;;3374:373;;3534:67;3598:2;3593:3;3534:67;;;3527:74;;3634:34;3630:1;3625:3;3621:11;3614:55;3703:6;3698:2;3693:3;3689:12;3682:28;3738:2;3733:3;3729:12;3722:19;;3520:227;;;;3756:372;;3916:67;3980:2;3975:3;3916:67;;;3909:74;;4016:34;4012:1;4007:3;4003:11;3996:55;4085:5;4080:2;4075:3;4071:12;4064:27;4119:2;4114:3;4110:12;4103:19;;3902:226;;;;4137:329;;4297:67;4361:2;4356:3;4297:67;;;4290:74;;4397:31;4393:1;4388:3;4384:11;4377:52;4457:2;4452:3;4448:12;4441:19;;4283:183;;;;4475:373;;4635:67;4699:2;4694:3;4635:67;;;4628:74;;4735:34;4731:1;4726:3;4722:11;4715:55;4804:6;4799:2;4794:3;4790:12;4783:28;4839:2;4834:3;4830:12;4823:19;;4621:227;;;;4857:378;;5017:67;5081:2;5076:3;5017:67;;;5010:74;;5117:34;5113:1;5108:3;5104:11;5097:55;5186:11;5181:2;5176:3;5172:12;5165:33;5226:2;5221:3;5217:12;5210:19;;5003:232;;;;5244:375;;5404:67;5468:2;5463:3;5404:67;;;5397:74;;5504:34;5500:1;5495:3;5491:11;5484:55;5573:8;5568:2;5563:3;5559:12;5552:30;5610:2;5605:3;5601:12;5594:19;;5390:229;;;;5628:373;;5788:67;5852:2;5847:3;5788:67;;;5781:74;;5888:34;5884:1;5879:3;5875:11;5868:55;5957:6;5952:2;5947:3;5943:12;5936:28;5992:2;5987:3;5983:12;5976:19;;5774:227;;;;6010:329;;6170:67;6234:2;6229:3;6170:67;;;6163:74;;6270:31;6266:1;6261:3;6257:11;6250:52;6330:2;6325:3;6321:12;6314:19;;6156:183;;;;6347:213;;6465:2;6454:9;6450:18;6442:26;;6479:71;6547:1;6536:9;6532:17;6523:6;6479:71;;;6436:124;;;;;6567:229;;6693:2;6682:9;6678:18;6670:26;;6707:79;6783:1;6772:9;6768:17;6759:6;6707:79;;;6664:132;;;;;6803:356;;6965:2;6954:9;6950:18;6942:26;;6979:79;7055:1;7044:9;7040:17;7031:6;6979:79;;;7069:80;7145:2;7134:9;7130:18;7121:6;7069:80;;;6936:223;;;;;;7166:356;;7328:2;7317:9;7313:18;7305:26;;7342:79;7418:1;7407:9;7403:17;7394:6;7342:79;;;7432:80;7508:2;7497:9;7493:18;7484:6;7432:80;;;7299:223;;;;;;7529:201;;7641:2;7630:9;7626:18;7618:26;;7655:65;7717:1;7706:9;7702:17;7693:6;7655:65;;;7612:118;;;;;7737:245;;7871:2;7860:9;7856:18;7848:26;;7885:87;7969:1;7958:9;7954:17;7945:6;7885:87;;;7842:140;;;;;7989:241;;8121:2;8110:9;8106:18;8098:26;;8135:85;8217:1;8206:9;8202:17;8193:6;8135:85;;;8092:138;;;;;8237:265;;8381:2;8370:9;8366:18;8358:26;;8395:97;8489:1;8478:9;8474:17;8465:6;8395:97;;;8352:150;;;;;8509:407;;8700:2;8689:9;8685:18;8677:26;;8750:9;8744:4;8740:20;8736:1;8725:9;8721:17;8714:47;8775:131;8901:4;8775:131;;;8767:139;;8671:245;;;;8923:407;;9114:2;9103:9;9099:18;9091:26;;9164:9;9158:4;9154:20;9150:1;9139:9;9135:17;9128:47;9189:131;9315:4;9189:131;;;9181:139;;9085:245;;;;9337:407;;9528:2;9517:9;9513:18;9505:26;;9578:9;9572:4;9568:20;9564:1;9553:9;9549:17;9542:47;9603:131;9729:4;9603:131;;;9595:139;;9499:245;;;;9751:407;;9942:2;9931:9;9927:18;9919:26;;9992:9;9986:4;9982:20;9978:1;9967:9;9963:17;9956:47;10017:131;10143:4;10017:131;;;10009:139;;9913:245;;;;10165:407;;10356:2;10345:9;10341:18;10333:26;;10406:9;10400:4;10396:20;10392:1;10381:9;10377:17;10370:47;10431:131;10557:4;10431:131;;;10423:139;;10327:245;;;;10579:407;;10770:2;10759:9;10755:18;10747:26;;10820:9;10814:4;10810:20;10806:1;10795:9;10791:17;10784:47;10845:131;10971:4;10845:131;;;10837:139;;10741:245;;;;10993:407;;11184:2;11173:9;11169:18;11161:26;;11234:9;11228:4;11224:20;11220:1;11209:9;11205:17;11198:47;11259:131;11385:4;11259:131;;;11251:139;;11155:245;;;;11407:407;;11598:2;11587:9;11583:18;11575:26;;11648:9;11642:4;11638:20;11634:1;11623:9;11619:17;11612:47;11673:131;11799:4;11673:131;;;11665:139;;11569:245;;;;11821:407;;12012:2;12001:9;11997:18;11989:26;;12062:9;12056:4;12052:20;12048:1;12037:9;12033:17;12026:47;12087:131;12213:4;12087:131;;;12079:139;;11983:245;;;;12236:163;;12351:6;12346:3;12339:19;12388:4;12383:3;12379:14;12364:29;;12332:67;;;;;12407:91;;12469:24;12487:5;12469:24;;;12458:35;;12452:46;;;;12505:85;;12578:5;12571:13;12564:21;12553:32;;12547:43;;;;12597:117;;12685:24;12703:5;12685:24;;;12674:35;;12668:46;;;;12721:121;;12794:42;12787:5;12783:54;12772:65;;12766:76;;;;12849:72;;12911:5;12900:16;;12894:27;;;;12928:129;;13015:37;13046:5;13015:37;;;13002:50;;12996:61;;;;13064:153;;13159:53;13206:5;13159:53;;;13146:66;;13140:77;;;;13224:124;;13319:24;13337:5;13319:24;;;13306:37;;13300:48;;;;13355:149;;13448:51;13493:5;13448:51;;;13435:64;;13429:75;;;;13511:122;;13604:24;13622:5;13604:24;;;13591:37;;13585:48;;;;13640:173;;13745:63;13802:5;13745:63;;;13732:76;;13726:87;;;;13820:134;;13925:24;13943:5;13925:24;;;13912:37;;13906:48;;;;13961:116;;14048:24;14066:5;14048:24;;;14035:37;;14029:48;;;;14084:116;;14171:24;14189:5;14171:24;;;14158:37;;14152:48;;;;14207:121;;14286:37;14317:5;14286:37;;;14273:50;;14267:61;;;;14335:108;;14414:24;14432:5;14414:24;;;14401:37;;14395:48;;;;14450:117;14519:24;14537:5;14519:24;;;14512:5;14509:35;14499:2;;14558:1;14555;14548:12;14499:2;14493:74;;14574:169;14669:50;14713:5;14669:50;;;14662:5;14659:61;14649:2;;14734:1;14731;14724:12;14649:2;14643:100;;14750:117;14819:24;14837:5;14819:24;;;14812:5;14809:35;14799:2;;14858:1;14855;14848:12;14799:2;14793:74;",
   "source": "pragma solidity ^0.6.0;\npragma experimental ABIEncoderV2;\n\nimport \"./ERC20TD.sol\";\nimport \"./IExerciceSolution.sol\";\nimport \"@openzeppelin/contracts/token/ERC20/IERC20.sol\";\n\n// import \"./utils/IUniswapV2Factory.sol\";\n// import \"./utils/IUniswapV2Pair.sol\";\n\ncontract Evaluator \n{\n\n\tERC20TD public TDAAVE;\n\tIERC20 public aDAI;\n\tIERC20 public USDC;\n\tIERC20 public variableDebtUSDC;\n\n \tmapping(address => mapping(uint256 => bool)) public exerciceProgression;\n \tmapping(address => IExerciceSolution) public studentExercice;\n \tmapping(address => bool) public hasBeenPaired;\n\n \tevent constructedCorrectly(address erc20Address, address adaiAddress, address UsdcAddress, address variableDebtUSDCAddress);\n\tconstructor(ERC20TD _TDAAVE, IERC20 _aDAI, IERC20 _USDC, IERC20 _variableDebtUSDC) \n\tpublic \n\t{\n\t\tTDAAVE = _TDAAVE;\n\t\taDAI = _aDAI;\n\t\tUSDC = _USDC;\n\t\tvariableDebtUSDC = _variableDebtUSDC;\n\t\temit constructedCorrectly(address(TDAAVE), address(aDAI), address(USDC), address(variableDebtUSDC));\n\n\t}\n\n\tfallback () external payable \n\t{}\n\n\treceive () external payable \n\t{}\n\n\tfunction ex1_showIDepositedTokens()\n\tpublic\n\t{\n\n\t\t// Sender should have deposited testnet aDAI\n\t\trequire(aDAI.balanceOf(msg.sender) > 0, \"Sender has not deposited DAI in AAVE\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][1])\n\t\t{\n\t\t\texerciceProgression[msg.sender][1] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 2);\n\t\t}\n\n\t}\n\n\tfunction ex2_showIBorrowedTokens()\n\tpublic\n\t{\n\n\t\t// Sender should have borrowed USDC on AAVE \n\t\trequire(variableDebtUSDC.balanceOf(msg.sender) > 0, \"Sender has not borrowed USDC in AAVE\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][2])\n\t\t{\n\t\t\texerciceProgression[msg.sender][2] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 2);\n\t\t}\n\n\t}\n\n\tfunction ex3_showIRepaidTokens()\n\tpublic\n\t{\n\n\t\trequire(exerciceProgression[msg.sender][2], \"You should have completed ex2\");\n\t\t// // Sender should repaid his testnet USDC\n\t\trequire(variableDebtUSDC.balanceOf(msg.sender) == 0, \"Sender has not deposited DAI in AAVE\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][3])\n\t\t{\n\t\t\texerciceProgression[msg.sender][3] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 2);\n\t\t}\n\n\t}\n\n\tfunction ex4_showIWithdrewTokens()\n\tpublic\n\t{\n\n\t\trequire(exerciceProgression[msg.sender][1], \"You should have completed ex1\");\n\n\t\t// // Sender should have no more testnet aDAI\n\t\trequire(aDAI.balanceOf(msg.sender) == 0, \"Sender has not deposited DAI in AAVE\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][4])\n\t\t{\n\t\t\texerciceProgression[msg.sender][4] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 2);\n\t\t}\n\n\t}\n\n\tfunction ex5_showContractCanDepositTokens()\n\tpublic\n\t{\n\t\t// Reading initial aDai balance\n\t\tuint256 initialBalance = aDAI.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Trigger token deposit function\n\t\tstudentExercice[msg.sender].depositSomeTokens();\n\n\t\t// Read end balance\n\t\tuint256 endBalance = aDAI.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Verify that contract did borrow\n\t\trequire(initialBalance < endBalance, \"Your contract did not deposit tokens\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][5])\n\t\t{\n\t\t\texerciceProgression[msg.sender][5] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 2);\n\t\t}\n\t}\n\n\tfunction ex6_showContractCanBorrowTokens()\n\tpublic\n\t{\n\t\t// Reading initial variableDebtUSDC balance\n\t\tuint256 initialBalance = variableDebtUSDC.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Trigger token deposit function\n\t\tstudentExercice[msg.sender].borrowSomeTokens();\n\n\t\t// Read end balance\n\t\tuint256 endBalance = variableDebtUSDC.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Verify that contract did borrow\n\t\trequire(initialBalance < endBalance, \"Your contract did not borrow tokens\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][6])\n\t\t{\n\t\t\texerciceProgression[msg.sender][6] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 2);\n\t\t}\n\t}\n\n\tfunction ex7_showContractCanRepayTokens()\n\tpublic\n\t{\n\t\t// Reading initial variableDebtUSDC balance\n\t\tuint256 initialBalance = variableDebtUSDC.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Trigger token deposit function\n\t\tstudentExercice[msg.sender].repaySomeTokens();\n\n\t\t// Read end balance\n\t\tuint256 endBalance = variableDebtUSDC.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Verify that contract did borrow\n\t\trequire(initialBalance > endBalance, \"Your contract did not repay its tokens\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][7])\n\t\t{\n\t\t\texerciceProgression[msg.sender][7] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 2);\n\t\t}\n\t}\n\n\tfunction ex8_showContractCanWithdrawTokens()\n\tpublic\n\t{\n\t\t// Reading initial aDai balance\n\t\tuint256 initialBalance = aDAI.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Trigger token deposit function\n\t\tstudentExercice[msg.sender].withdrawSomeTokens();\n\n\t\t// Read end balance\n\t\tuint256 endBalance = aDAI.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Verify that contract did borrow\n\t\trequire(initialBalance > endBalance, \"Your contract did not withdraw its tokens\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][8])\n\t\t{\n\t\t\texerciceProgression[msg.sender][8] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 2);\n\t\t}\n\t}\n\n\tfunction ex9_performFlashLoan()\n\tpublic\n\t{\t\n\t\t// Check https://docs.aave.com/developers/guides/flash-loans\n\n\t\t// Trigger flash loan launch function\n\t\tstudentExercice[msg.sender].doAFlashLoan();\n\n\t\t// Read end balance\n\t\tuint256 endBalance = USDC.balanceOf(address(studentExercice[msg.sender]));\n\n\t\t// Your contract has to borrow 1M USDC. The USDC contract has 6 decimals\n\t\tuint256 amountToBorrow = 1000000 * 1000000;\n\t\t// Verify that contract did borrow\n\t\trequire(endBalance > amountToBorrow, \"Your contract does not hold 1M dollars\");\n\n\t\t// Distributing points\n\t\tif (!exerciceProgression[msg.sender][9])\n\t\t{\n\t\t\texerciceProgression[msg.sender][9] = true;\n\t\t\tTDAAVE.distributeTokens(msg.sender, 4);\n\t\t}\n\t}\n\n\n\tmodifier onlyTeachers() \n\t{\n\n\t    require(TDAAVE.teachers(msg.sender));\n\t    _;\n\t}\n\n\tfunction submitExercice(IExerciceSolution studentExercice_)\n\tpublic\n\t{\n\t\t// Checking this contract was not used by another group before\n\t\trequire(!hasBeenPaired[address(studentExercice_)]);\n\n\t\t// Assigning passed ERC20 as student ERC20\n\t\tstudentExercice[msg.sender] = studentExercice_;\n\t\thasBeenPaired[address(studentExercice_)] = true;\n\t\t\t\n\t}\n\n}\n",
-  "sourcePath": "/Users/henrilieutaud/Documents/Workshop/Solidity/lending-101/contracts/Evaluator.sol",
+  "sourcePath": "C:\\Users\\blanp\\OneDrive - De Vinci\\Documents\\S8\\DeFi\\lending-101\\contracts\\Evaluator.sol",
   "ast": {
     "absolutePath": "project:/contracts/Evaluator.sol",
     "exportedSymbols": {
@@ -320,7 +311,7 @@
         "id": 1066,
         "nodeType": "ImportDirective",
         "scope": 1727,
-        "sourceUnit": 1748,
+        "sourceUnit": 1910,
         "src": "83:33:5",
         "symbolAliases": [],
         "unitAlias": ""
@@ -548,7 +539,7 @@
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+              "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
               "typeString": "mapping(address => contract IExerciceSolution)"
             },
             "typeName": {
@@ -566,7 +557,7 @@
               "nodeType": "Mapping",
               "src": "459:37:5",
               "typeDescriptions": {
-                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                 "typeString": "mapping(address => contract IExerciceSolution)"
               },
               "valueType": {
@@ -574,10 +565,10 @@
                 "id": 1083,
                 "name": "IExerciceSolution",
                 "nodeType": "UserDefinedTypeName",
-                "referencedDeclaration": 1747,
+                "referencedDeclaration": 1909,
                 "src": "478:17:5",
                 "typeDescriptions": {
-                  "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                  "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                   "typeString": "contract IExerciceSolution"
                 }
               }
@@ -4121,7 +4112,7 @@
                               "referencedDeclaration": 1085,
                               "src": "2788:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -4162,7 +4153,7 @@
                             "nodeType": "IndexAccess",
                             "src": "2788:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -4170,7 +4161,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -4281,7 +4272,7 @@
                           "referencedDeclaration": 1085,
                           "src": "2858:15:5",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -4322,7 +4313,7 @@
                         "nodeType": "IndexAccess",
                         "src": "2858:27:5",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -4333,7 +4324,7 @@
                       "lValueRequested": false,
                       "memberName": "depositSomeTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 1731,
+                      "referencedDeclaration": 1893,
                       "src": "2858:45:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
@@ -4410,7 +4401,7 @@
                               "referencedDeclaration": 1085,
                               "src": "2976:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -4451,7 +4442,7 @@
                             "nodeType": "IndexAccess",
                             "src": "2976:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -4459,7 +4450,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -5103,7 +5094,7 @@
                               "referencedDeclaration": 1085,
                               "src": "3458:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -5144,7 +5135,7 @@
                             "nodeType": "IndexAccess",
                             "src": "3458:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -5152,7 +5143,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -5263,7 +5254,7 @@
                           "referencedDeclaration": 1085,
                           "src": "3528:15:5",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -5304,7 +5295,7 @@
                         "nodeType": "IndexAccess",
                         "src": "3528:27:5",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -5315,7 +5306,7 @@
                       "lValueRequested": false,
                       "memberName": "borrowSomeTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 1737,
+                      "referencedDeclaration": 1899,
                       "src": "3528:44:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
@@ -5392,7 +5383,7 @@
                               "referencedDeclaration": 1085,
                               "src": "3657:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -5433,7 +5424,7 @@
                             "nodeType": "IndexAccess",
                             "src": "3657:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -5441,7 +5432,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -6085,7 +6076,7 @@
                               "referencedDeclaration": 1085,
                               "src": "4137:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -6126,7 +6117,7 @@
                             "nodeType": "IndexAccess",
                             "src": "4137:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -6134,7 +6125,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -6245,7 +6236,7 @@
                           "referencedDeclaration": 1085,
                           "src": "4207:15:5",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -6286,7 +6277,7 @@
                         "nodeType": "IndexAccess",
                         "src": "4207:27:5",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -6297,7 +6288,7 @@
                       "lValueRequested": false,
                       "memberName": "repaySomeTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 1740,
+                      "referencedDeclaration": 1902,
                       "src": "4207:43:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
@@ -6374,7 +6365,7 @@
                               "referencedDeclaration": 1085,
                               "src": "4335:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -6415,7 +6406,7 @@
                             "nodeType": "IndexAccess",
                             "src": "4335:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -6423,7 +6414,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -7067,7 +7058,7 @@
                               "referencedDeclaration": 1085,
                               "src": "4797:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -7108,7 +7099,7 @@
                             "nodeType": "IndexAccess",
                             "src": "4797:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -7116,7 +7107,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -7227,7 +7218,7 @@
                           "referencedDeclaration": 1085,
                           "src": "4867:15:5",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -7268,7 +7259,7 @@
                         "nodeType": "IndexAccess",
                         "src": "4867:27:5",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -7279,7 +7270,7 @@
                       "lValueRequested": false,
                       "memberName": "withdrawSomeTokens",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 1734,
+                      "referencedDeclaration": 1896,
                       "src": "4867:46:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
@@ -7356,7 +7347,7 @@
                               "referencedDeclaration": 1085,
                               "src": "4986:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -7397,7 +7388,7 @@
                             "nodeType": "IndexAccess",
                             "src": "4986:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -7405,7 +7396,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -8015,7 +8006,7 @@
                           "referencedDeclaration": 1085,
                           "src": "5461:15:5",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                            "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                             "typeString": "mapping(address => contract IExerciceSolution)"
                           }
                         },
@@ -8056,7 +8047,7 @@
                         "nodeType": "IndexAccess",
                         "src": "5461:27:5",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                          "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                           "typeString": "contract IExerciceSolution"
                         }
                       },
@@ -8067,7 +8058,7 @@
                       "lValueRequested": false,
                       "memberName": "doAFlashLoan",
                       "nodeType": "MemberAccess",
-                      "referencedDeclaration": 1743,
+                      "referencedDeclaration": 1905,
                       "src": "5461:40:5",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_external_nonpayable$__$returns$__$",
@@ -8144,7 +8135,7 @@
                               "referencedDeclaration": 1085,
                               "src": "5574:15:5",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                                "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                                 "typeString": "mapping(address => contract IExerciceSolution)"
                               }
                             },
@@ -8185,7 +8176,7 @@
                             "nodeType": "IndexAccess",
                             "src": "5574:27:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -8193,7 +8184,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -9076,7 +9067,7 @@
                                 "referencedDeclaration": 1695,
                                 "src": "6272:16:5",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                  "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                   "typeString": "contract IExerciceSolution"
                                 }
                               }
@@ -9084,7 +9075,7 @@
                             "expression": {
                               "argumentTypes": [
                                 {
-                                  "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                  "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                   "typeString": "contract IExerciceSolution"
                                 }
                               ],
@@ -9201,7 +9192,7 @@
                         "referencedDeclaration": 1085,
                         "src": "6341:15:5",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1747_$",
+                          "typeIdentifier": "t_mapping$_t_address_$_t_contract$_IExerciceSolution_$1909_$",
                           "typeString": "mapping(address => contract IExerciceSolution)"
                         }
                       },
@@ -9242,7 +9233,7 @@
                       "nodeType": "IndexAccess",
                       "src": "6341:27:5",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                        "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                         "typeString": "contract IExerciceSolution"
                       }
                     },
@@ -9257,13 +9248,13 @@
                       "referencedDeclaration": 1695,
                       "src": "6371:16:5",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                        "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                         "typeString": "contract IExerciceSolution"
                       }
                     },
                     "src": "6341:46:5",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                       "typeString": "contract IExerciceSolution"
                     }
                   },
@@ -9307,7 +9298,7 @@
                             "referencedDeclaration": 1695,
                             "src": "6413:16:5",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           }
@@ -9315,7 +9306,7 @@
                         "expression": {
                           "argumentTypes": [
                             {
-                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                               "typeString": "contract IExerciceSolution"
                             }
                           ],
@@ -9423,7 +9414,7 @@
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                    "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                     "typeString": "contract IExerciceSolution"
                   },
                   "typeName": {
@@ -9431,10 +9422,10 @@
                     "id": 1694,
                     "name": "IExerciceSolution",
                     "nodeType": "UserDefinedTypeName",
-                    "referencedDeclaration": 1747,
+                    "referencedDeclaration": 1909,
                     "src": "6127:17:5",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                       "typeString": "contract IExerciceSolution"
                     }
                   },
@@ -9514,7 +9505,7 @@
       },
       {
         "attributes": {
-          "SourceUnit": 1748,
+          "SourceUnit": 1910,
           "absolutePath": "project:/contracts/IExerciceSolution.sol",
           "file": "./IExerciceSolution.sol",
           "scope": 1727,
@@ -9779,7 +9770,7 @@
                     "attributes": {
                       "contractScope": null,
                       "name": "IExerciceSolution",
-                      "referencedDeclaration": 1747,
+                      "referencedDeclaration": 1909,
                       "type": "contract IExerciceSolution"
                     },
                     "id": 1083,
@@ -13720,7 +13711,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -13851,7 +13842,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "depositSomeTokens",
-                              "referencedDeclaration": 1731,
+                              "referencedDeclaration": 1893,
                               "type": "function () external"
                             },
                             "children": [
@@ -14036,7 +14027,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -14785,7 +14776,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -14916,7 +14907,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "borrowSomeTokens",
-                              "referencedDeclaration": 1737,
+                              "referencedDeclaration": 1899,
                               "type": "function () external"
                             },
                             "children": [
@@ -15101,7 +15092,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -15850,7 +15841,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -15981,7 +15972,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "repaySomeTokens",
-                              "referencedDeclaration": 1740,
+                              "referencedDeclaration": 1902,
                               "type": "function () external"
                             },
                             "children": [
@@ -16166,7 +16157,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -16915,7 +16906,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -17046,7 +17037,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "withdrawSomeTokens",
-                              "referencedDeclaration": 1734,
+                              "referencedDeclaration": 1896,
                               "type": "function () external"
                             },
                             "children": [
@@ -17231,7 +17222,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -17905,7 +17896,7 @@
                               "isPure": false,
                               "lValueRequested": false,
                               "member_name": "doAFlashLoan",
-                              "referencedDeclaration": 1743,
+                              "referencedDeclaration": 1905,
                               "type": "function () external"
                             },
                             "children": [
@@ -18090,7 +18081,7 @@
                                 "attributes": {
                                   "argumentTypes": [
                                     {
-                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                      "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                       "typeString": "contract IExerciceSolution"
                                     }
                                   ],
@@ -18994,7 +18985,7 @@
                         "attributes": {
                           "contractScope": null,
                           "name": "IExerciceSolution",
-                          "referencedDeclaration": 1747,
+                          "referencedDeclaration": 1909,
                           "type": "contract IExerciceSolution"
                         },
                         "id": 1694,
@@ -19118,7 +19109,7 @@
                                         "attributes": {
                                           "argumentTypes": [
                                             {
-                                              "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                              "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                               "typeString": "contract IExerciceSolution"
                                             }
                                           ],
@@ -19336,7 +19327,7 @@
                                     "attributes": {
                                       "argumentTypes": [
                                         {
-                                          "typeIdentifier": "t_contract$_IExerciceSolution_$1747",
+                                          "typeIdentifier": "t_contract$_IExerciceSolution_$1909",
                                           "typeString": "contract IExerciceSolution"
                                         }
                                       ],
@@ -19437,8 +19428,8 @@
     "version": "0.6.2+commit.bacdbe57.Emscripten.clang"
   },
   "networks": {},
-  "schemaVersion": "3.4.4",
-  "updatedAt": "2022-03-25T17:29:13.662Z",
+  "schemaVersion": "3.4.10",
+  "updatedAt": "2023-02-17T18:15:16.409Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
